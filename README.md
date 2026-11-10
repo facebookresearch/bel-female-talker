@@ -15,7 +15,7 @@ Download
 --------
 
 The recordings (WAV and MP4, about 28 GB) and the speech-shaped noise are downloaded from
-[DOWNLOAD PAGE URL]. This repository holds the list assignments and the analysis code.
+https://ai.meta.com/datasets/bel-female-talker-downloads/. This repository holds the list assignments and the analysis code.
 
 
 Contents
